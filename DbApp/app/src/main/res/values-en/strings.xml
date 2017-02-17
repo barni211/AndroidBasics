@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DbApp</string>
+	<string name="add">Add</string>
+	<string name="delete">Delete</string>
+	<string name="save">Save</string>
+	<string name="addPhoto">Take photo</string>
+	<string name="name">Name</string>
+	<string name="surname">Surname</string>
+	<string name="age">Age</string>
+	<string name="edit">Edit</string>
+	<string name="history">History</string>
+	<string name="language">PL</string>
+</resources>

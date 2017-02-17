@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DbApp</string>
+	<string name="add">Dodaj</string>
+	<string name="delete">Usuń</string>
+	<string name="save">Zapisz</string>
+	<string name="addPhoto">Dodaj zdjęcie</string>
+	<string name="name">Imie</string>
+	<string name="surname">Nazwisko</string>
+	<string name="age">Wiek</string>
+	<string name="edit">Edytuj</string>
+	<string name="history">Historia</string>
+	<string name="language">EN</string>
+</resources>
